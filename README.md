@@ -10,6 +10,6 @@
 
 [Optimal Search Tree](https://github.com/gauravat16/Dynamic-Programming/blob/master/OptimalSearchTree.java)
 
-[Longest Palindromic String](https://github.com/gauravat16/Dynamic-Programming/blob/master/LongestPalindrome.java
+[Longest Palindromic String](https://github.com/gauravat16/Dynamic-Programming/blob/master/LongestPalindrome.java)
 
 [Text Justification](https://github.com/gauravat16/Dynamic-Programming/blob/master/TextJustification.java)
