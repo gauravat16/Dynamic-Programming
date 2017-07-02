@@ -15,3 +15,5 @@
   * [Text Justification](https://github.com/gauravat16/Dynamic-Programming/blob/master/TextJustification.java)
 
   * [Edit Distance](https://github.com/gauravat16/Dynamic-Programming/blob/master/EditDistance.java)
+  
+  * [Bricks Game](https://github.com/gauravat16/Dynamic-Programming/blob/master/BricksGame.java)
